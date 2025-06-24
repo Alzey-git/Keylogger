@@ -81,4 +81,4 @@ def special_simbols(KEY):
 
 keyboard.on_press(print_pressed_keys)
 keyboard.wait('ctrl+z')
-#awdasdsfsaffefa2132142432441dafawe1e
+print("awdasdsfsaffefa2132142432441dafawe1e")
